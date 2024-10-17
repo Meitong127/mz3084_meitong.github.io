@@ -13,4 +13,11 @@ navbar:
       href: http://github.com/<YOUR_GH_NAME>/
 output:
   html_document:
-    theme: cerulean. #只留一个的话，改这边的可以改整体的
+    theme: cerulean. 
+    
+    
+    
+    
+    #有好多种
+    #只留一个的话，改这边的可以改整体的
+    # home page is always index
