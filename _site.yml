@@ -1,0 +1,16 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "plot"
+      href: plots.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<you@youremail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/<YOUR_GH_NAME>/
+output:
+  html_document:
+    theme: cerulean. #只留一个的话，改这边的可以改整体的

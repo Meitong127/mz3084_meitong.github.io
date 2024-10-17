@@ -1,0 +1,29 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+
+
+
+
+
+
+# This is Jeff's awesome website
+2 ways.  no need code chunk here.
+
+RMD style
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](images/ted.jpg)
+
+html style
+<img src="images/ted.jpg" style="width:75%">
+
+
+if you'd like to learn more about this website, visit[this page](about.html). 
+要in the same folder 如果是一个网站就直接放链接，前面的那个
+注意大小写
